@@ -22,7 +22,7 @@ Common operations on BSTs include:
 
 In JavaScript, you can implement a binary search tree using classes and objects. Here's an example of implementing a basic binary search tree:
 
-```javascript
+```js
 class TreeNode {
   constructor(value) {
     this.value = value;

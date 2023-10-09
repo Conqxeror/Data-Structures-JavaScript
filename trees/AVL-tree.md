@@ -21,7 +21,7 @@ Common operations on AVL Trees include:
 
 In JavaScript, you can implement an AVL Tree using classes and objects. Here's an example of implementing a basic AVL Tree:
 
-```javascript
+```js
 class TreeNode {
   constructor(value) {
     this.value = value;

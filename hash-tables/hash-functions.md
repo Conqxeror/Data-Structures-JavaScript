@@ -16,7 +16,7 @@ A good hash function should have the following characteristics:
 
 Here's an example of implementing a simple hash function in JavaScript:
 
-```javascript
+```js
 function simpleHash(key, tableSize) {
   let hash = 0;
   for (let i = 0; i < key.length; i++) {

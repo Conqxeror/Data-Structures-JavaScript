@@ -12,7 +12,7 @@ Graphs can be represented in JavaScript using various data structures. One commo
 
 Here's an example of implementing a graph using an adjacency list in JavaScript:
 
-```javascript
+```js
 class Graph {
   constructor() {
     this.adjacencyList = new Map();

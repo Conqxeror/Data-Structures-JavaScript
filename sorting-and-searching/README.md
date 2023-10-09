@@ -25,7 +25,7 @@ Searching algorithms are used to find a specific value or item within a collecti
 
 In JavaScript, you can implement these sorting and searching algorithms for various data structures, such as arrays and trees. Here's an example of implementing the Quick Sort algorithm:
 
-```javascript
+```js
 function quickSort(arr) {
   if (arr.length <= 1) {
     return arr;

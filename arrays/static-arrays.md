@@ -11,7 +11,7 @@ A static array, also known as a fixed-size array, is an array with a predetermin
 
 To create a static array-like behavior in JavaScript, you can use an object or a class with a fixed size. Here's an example of emulating static arrays:
 
-```javascript
+```js
 class StaticArray {
   constructor(size) {
     this.size = size;

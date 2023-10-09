@@ -25,7 +25,7 @@ Common operations on trees include:
 
 In JavaScript, you can implement various types of trees using classes and objects. Here's an example of implementing a basic binary search tree (BST):
 
-```javascript
+```js
 class TreeNode {
   constructor(value) {
     this.value = value;

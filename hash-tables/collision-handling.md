@@ -12,7 +12,7 @@ In hash tables, collisions occur when two different keys produce the same hash c
 
 Here's an example of implementing collision handling using separate chaining in JavaScript:
 
-```javascript
+```js
 class HashTable {
   constructor(tableSize) {
     this.tableSize = tableSize;

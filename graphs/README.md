@@ -27,7 +27,7 @@ Common operations on graphs include:
 
 In JavaScript, you can implement graphs using various data structures, such as adjacency lists or adjacency matrices. Here's a simplified example of implementing an undirected graph using an adjacency list:
 
-```javascript
+```js
 class Graph {
   constructor() {
     this.nodes = new Map();

@@ -26,7 +26,7 @@ A queue is another linear data structure, but it follows the First-In-First-Out 
 
 JavaScript doesn't have built-in implementations of stacks and queues, but you can easily create them using arrays or linked lists. Here's an example of implementing a stack and a queue using arrays:
 
-```javascript
+```js
 // Stack implementation using an array
 class Stack {
   constructor() {

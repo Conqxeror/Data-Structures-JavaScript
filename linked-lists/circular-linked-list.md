@@ -18,7 +18,7 @@ A circular linked list is a variation of a linked list in which the last node of
 
 Here's a simple example of implementing a circular linked list in JavaScript:
 
-```javascript
+```js
 class Node {
   constructor(value) {
     this.value = value;

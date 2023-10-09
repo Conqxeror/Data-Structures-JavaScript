@@ -18,7 +18,7 @@ A doubly linked list is an extension of the singly linked list where each node h
 
 Here's a simple example of implementing a doubly linked list in JavaScript:
 
-```javascript
+```js
 class Node {
   constructor(value) {
     this.value = value;

@@ -19,7 +19,7 @@ A linked list is a linear data structure used for organizing and storing a colle
 
 Here's an example of implementing a singly linked list in JavaScript:
 
-```javascript
+```js
 class Node {
   constructor(data) {
     this.data = data;

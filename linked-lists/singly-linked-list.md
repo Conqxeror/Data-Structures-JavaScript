@@ -18,7 +18,7 @@ A singly linked list is a fundamental data structure consisting of a sequence of
 
 Here's a simple example of implementing a singly linked list in JavaScript:
 
-```javascript
+```js
 class Node {
   constructor(value) {
     this.value = value;

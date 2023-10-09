@@ -14,7 +14,7 @@ There are two primary methods for graph traversal:
 
 Here's an example of implementing DFS and BFS graph traversal in JavaScript:
 
-```javascript
+```js
 class Graph {
   constructor() {
     this.adjacencyList = new Map();

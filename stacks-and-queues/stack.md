@@ -21,7 +21,7 @@ Stacks are used in various scenarios, including but not limited to:
 
 In JavaScript, you can implement a stack using arrays or linked lists. Here's an example of implementing a stack using an array:
 
-```javascript
+```js
 class Stack {
   constructor() {
     this.items = [];

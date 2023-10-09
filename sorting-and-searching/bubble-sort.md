@@ -16,7 +16,7 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the list
 
 Here's an example of implementing the Bubble Sort algorithm in JavaScript:
 
-```javascript
+```js
 function bubbleSort(arr) {
   const n = arr.length;
   let swapped;

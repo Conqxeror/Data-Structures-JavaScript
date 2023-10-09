@@ -15,7 +15,7 @@ Common operations on binary trees include:
 
 In JavaScript, you can implement a binary tree using classes and objects. Here's an example of implementing a basic binary tree:
 
-```javascript
+```js
 class TreeNode {
   constructor(value) {
     this.value = value;

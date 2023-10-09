@@ -16,7 +16,7 @@ Binary Search is a fast and efficient search algorithm used to find a specific t
 
 Here's an example of implementing the Binary Search algorithm in JavaScript:
 
-```javascript
+```js
 function binarySearch(sortedArray, target) {
   let left = 0;
   let right = sortedArray.length - 1;

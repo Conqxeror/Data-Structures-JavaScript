@@ -21,7 +21,7 @@ Queues are used in various scenarios, including but not limited to:
 
 In JavaScript, you can implement a queue using arrays or linked lists. Here's an example of implementing a queue using an array:
 
-```javascript
+```js
 class Queue {
   constructor() {
     this.items = [];

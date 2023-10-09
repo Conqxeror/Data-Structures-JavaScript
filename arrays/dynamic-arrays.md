@@ -12,7 +12,7 @@ A dynamic array, often referred to as a dynamic array list or simply an ArrayLis
 
 In JavaScript, the built-in array can be considered a dynamic array because it automatically resizes when necessary. Here's an example of working with dynamic arrays:
 
-```javascript
+```js
 // Creating an empty array
 const dynamicArray = [];
 

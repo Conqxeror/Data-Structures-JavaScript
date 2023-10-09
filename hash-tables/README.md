@@ -16,7 +16,7 @@ Common operations on hash tables include:
 
 In JavaScript, you can implement a simple hash table using objects or JavaScript's built-in `Map` data structure. Here's an example of implementing a basic hash table using objects:
 
-```javascript
+```js
 class HashTable {
   constructor() {
     this.data = {};

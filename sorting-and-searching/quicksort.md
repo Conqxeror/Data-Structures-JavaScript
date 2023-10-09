@@ -13,7 +13,7 @@ Quick Sort is a highly efficient, divide-and-conquer sorting algorithm. It works
 
 Here's an example of implementing the Quick Sort algorithm in JavaScript:
 
-```javascript
+```js
 function quickSort(arr) {
   if (arr.length <= 1) {
     return arr;
