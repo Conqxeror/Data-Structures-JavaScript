@@ -36,3 +36,4 @@ if (indexToRemove !== -1) {
 for (const element of dynamicArray) {
   console.log(element);
 }
+```

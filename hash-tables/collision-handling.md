@@ -54,3 +54,4 @@ hashTable.set("name", "John");
 hashTable.set("age", 30);
 
 const name = hashTable.get("name"); // "John"
+```

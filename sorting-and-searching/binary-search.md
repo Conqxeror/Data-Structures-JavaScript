@@ -40,4 +40,4 @@ function binarySearch(sortedArray, target) {
 const sortedArray = [2, 3, 4, 5, 7, 8, 10, 12];
 const target = 7;
 const index = binarySearch(sortedArray, target);
- 
+```

@@ -91,3 +91,4 @@ queue.enqueue("A");
 queue.enqueue("B");
 const frontOfQueue = queue.peek(); // "A"
 queue.dequeue(); // Removes and returns "A"
+```

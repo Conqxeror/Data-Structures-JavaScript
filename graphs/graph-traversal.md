@@ -73,3 +73,4 @@ graph.dfs("A", (node) => console.log(node));
 
 // BFS traversal example
 graph.bfs("A", (node) => console.log(node));
+```

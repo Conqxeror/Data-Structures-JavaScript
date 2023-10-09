@@ -53,3 +53,4 @@ stack.push(1);
 stack.push(2);
 const topOfStack = stack.peek(); // 2
 stack.pop(); // Removes and returns 2
+```

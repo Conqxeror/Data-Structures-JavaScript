@@ -70,3 +70,4 @@ const bst = new BinarySearchTree();
 bst.insert(5);
 bst.insert(3);
 bst.insert(7);
+```

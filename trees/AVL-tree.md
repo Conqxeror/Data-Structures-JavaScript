@@ -60,3 +60,4 @@ const avlTree = new AVLTree();
 avlTree.insert(5);
 avlTree.insert(3);
 avlTree.insert(7);
+```

@@ -53,3 +53,4 @@ hashTable.set("age", 30);
 const name = hashTable.get("name"); // "John"
 hashTable.delete("age");
 const hasAge = hashTable.has("age"); // false
+```

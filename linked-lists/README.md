@@ -97,3 +97,4 @@ linkedList.prepend(0);
 linkedList.delete(1);
 const node = linkedList.search(2);
 console.log(node); // Output: Node { data: 2, next: null }
+```

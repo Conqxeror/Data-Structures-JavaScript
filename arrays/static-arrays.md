@@ -41,3 +41,4 @@ staticArray.set(0, "A");
 staticArray.set(1, "B");
 
 const valueAtIndex1 = staticArray.get(1); // "B"
+```

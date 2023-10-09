@@ -29,3 +29,4 @@ function simpleHash(key, tableSize) {
 const key = "example";
 const tableSize = 10;
 const hash = simpleHash(key, tableSize); // Computed hash code
+```

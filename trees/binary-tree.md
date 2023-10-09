@@ -58,3 +58,4 @@ const binaryTree = new BinaryTree();
 binaryTree.insert(5);
 binaryTree.insert(3);
 binaryTree.insert(7);
+```

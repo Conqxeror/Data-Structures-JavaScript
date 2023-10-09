@@ -39,3 +39,4 @@ const graph = new Graph();
 graph.addNode("A");
 graph.addNode("B");
 graph.addEdge("A", "B");
+```

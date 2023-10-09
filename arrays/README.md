@@ -39,3 +39,4 @@ for (const fruit of fruits) {
 }
 
 // Other array operations like splice, pop, and more can be used as well
+```
