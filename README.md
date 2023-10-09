@@ -4,14 +4,71 @@ Welcome to the Data Structures in JavaScript repository! This repository aims to
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Linked Lists](linked-lists/README.md)
-3. [Arrays](arrays/README.md)
-4. [Stacks and Queues](stacks-and-queues/README.md)
-5. [Trees](trees/README.md)
-6. [Graphs](graphs/README.md)
-7. [Hash Tables](hash-tables/README.md)
-8. [Sorting and Searching](sorting-and-searching/README.md)
+<details>
+<summary>1. Introduction</summary>
+
+- [Introduction](#introduction)
+</details>
+
+<details>
+<summary>2. Linked Lists</summary>
+
+- [Linked Lists Introduction](linked-lists/README.md)
+- [Singly Linked List](linked-lists/singly-linked-list.md)
+- [Doubly Linked List](linked-lists/doubly-linked-list.md)
+- [Circular Linked List](linked-lists/circular-linked-list.md)
+</details>
+
+<details>
+<summary>3. Arrays</summary>
+
+- [Arrays Introduction](arrays/README.md)
+- [Dynamic Arrays](arrays/dynamic-arrays.md)
+- [Static Arrays](arrays/static-arrays.md)
+</details>
+
+<details>
+<summary>4. Stacks and Queues</summary>
+
+- [Stacks and Queues Introduction](stacks-and-queues/README.md)
+- [Stack](stacks-and-queues/stack.md)
+- [Queue](stacks-and-queues/queue.md)
+</details>
+
+<details>
+<summary>5. Trees</summary>
+
+- [Trees Introduction](trees/README.md)
+- [Binary Tree](trees/binary-tree.md)
+- [Binary Search Tree](trees/binary-search-tree.md)
+- [AVL Tree](trees/AVL-tree.md)
+</details>
+
+<details>
+<summary>6. Graphs</summary>
+
+- [Graphs Introduction](graphs/README.md)
+- [Graph Representation](graphs/graph-representation.md)
+- [Graph Traversal](graphs/graph-traversal.md)
+</details>
+
+<details>
+<summary>7. Hash Tables</summary>
+
+- [Hash Tables Introduction](hash-tables/README.md)
+- [Hash Functions](hash-tables/hash-functions.md)
+- [Collision Handling](hash-tables/collision-handling.md)
+</details>
+
+<details>
+<summary>8. Sorting and Searching</summary>
+
+- [Sorting and Searching Introduction](sorting-and-searching/README.md)
+- [Bubble Sort](sorting-and-searching/bubble-sort.md)
+- [Quicksort](sorting-and-searching/quicksort.md)
+- [Binary Search](sorting-and-searching/binary-search.md)
+</details>
+
 
 ## Introduction
 
