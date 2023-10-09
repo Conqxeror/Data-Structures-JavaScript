@@ -20,7 +20,7 @@ An array is a fundamental data structure in JavaScript that allows you to store 
 
 Here's a simple example of working with arrays in JavaScript:
 
-```javascript
+```js
 // Creating an array
 const fruits = ["apple", "banana", "cherry"];
 
