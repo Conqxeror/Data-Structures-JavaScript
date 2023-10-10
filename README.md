@@ -2,6 +2,9 @@
 
 Welcome to the Data Structures in JavaScript repository! This repository aims to provide a comprehensive guide to various data structures and their implementations in JavaScript.
 
+![InShot_20231010_104612310.jpg](https://github.com/Conqxeror/Data-Structures-JavaScript/assets/110852661/3d9e657a-f718-4a21-bfac-3e416a043bdf)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
